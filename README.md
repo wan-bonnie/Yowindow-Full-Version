@@ -240,3 +240,6 @@ This repository serves as the official landing page for YoWindow. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of YoWindow today!**
+
+---
+**Last updated:** 2026-09-11 20:33:34 UTC
