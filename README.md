@@ -242,4 +242,4 @@ This repository serves as the official landing page for YoWindow. The software i
 **Get the most recent version of YoWindow today!**
 
 ---
-**Last updated:** 2026-10-08 11:48:14 UTC
+**Last updated:** 2026-10-08 18:30:17 UTC
